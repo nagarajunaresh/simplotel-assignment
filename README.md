@@ -9,3 +9,5 @@ Output Images are attached
 https://ik.imagekit.io/qqqzj3deu/Simplotel%20page-1.png?updatedAt=1708326602200
 
 https://ik.imagekit.io/qqqzj3deu/Simplotel%20page-2.png?updatedAt=1708326640019
+
+published link: nagsimplotel.ccbp.tech
